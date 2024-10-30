@@ -1,4 +1,4 @@
-name: DemoNewCD
+name: DemoNovoContinuoDelivery
 
 on:
   workflow_dispatch:
